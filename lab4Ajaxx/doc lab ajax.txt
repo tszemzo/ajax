@@ -1,0 +1,7 @@
+usar$.ajax para la parte con jquery y obtener una pagina php. o .xml
+jquery insertar pregunta
+xmljavascript preguntas.xml
+
+el formulario copiarlo.
+cambiar el verPreguntas agregar el if, las preguntas a mostrar son solo las del usuario
+
